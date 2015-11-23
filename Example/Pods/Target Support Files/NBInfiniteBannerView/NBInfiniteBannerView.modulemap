@@ -1,0 +1,6 @@
+framework module NBInfiniteBannerView {
+  umbrella header "NBInfiniteBannerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

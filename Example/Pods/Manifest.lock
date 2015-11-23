@@ -1,0 +1,14 @@
+PODS:
+  - NBInfiniteBannerView (0.1.0)
+
+DEPENDENCIES:
+  - NBInfiniteBannerView (from `../`)
+
+EXTERNAL SOURCES:
+  NBInfiniteBannerView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NBInfiniteBannerView: 964badc1eb7f9d0ce12e7a1d55bc8ffe468d3587
+
+COCOAPODS: 0.38.2

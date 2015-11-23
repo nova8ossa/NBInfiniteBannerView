@@ -1,0 +1,6 @@
+framework module Pods_NBInfiniteBannerView_Example {
+  umbrella header "Pods-NBInfiniteBannerView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
