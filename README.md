@@ -1,6 +1,6 @@
 # NBInfiniteBannerView
 
-[![CI Status](http://img.shields.io/travis/梵天/NBInfiniteBannerView.svg?style=flat)](https://travis-ci.org/梵天/NBInfiniteBannerView)
+[![CI Status](http://img.shields.io/travis/梵天/NBInfiniteBannerView.svg?style=flat)](https://travis-ci.org/nova8ossa/NBInfiniteBannerView)
 [![Version](https://img.shields.io/cocoapods/v/NBInfiniteBannerView.svg?style=flat)](http://cocoapods.org/pods/NBInfiniteBannerView)
 [![License](https://img.shields.io/cocoapods/l/NBInfiniteBannerView.svg?style=flat)](http://cocoapods.org/pods/NBInfiniteBannerView)
 [![Platform](https://img.shields.io/cocoapods/p/NBInfiniteBannerView.svg?style=flat)](http://cocoapods.org/pods/NBInfiniteBannerView)
@@ -22,7 +22,7 @@ pod "NBInfiniteBannerView"
 
 ## Author
 
-梵天, fantian@xiaokakeji.com
+梵天, nova8ossa@gmail.com
 
 ## License
 
