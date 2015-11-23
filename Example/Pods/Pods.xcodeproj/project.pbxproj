@@ -8,38 +8,39 @@
 
 /* Begin PBXBuildFile section */
 		107BE4A1965097A8DD13427E84DE7CBC /* Pods-NBInfiniteBannerView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F46ED1358DBD776BAFEC4DD8BED1AA1 /* Pods-NBInfiniteBannerView_Tests-dummy.m */; };
-		2CE372CC3FC7EC3601B7FF19FFFDC703 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 1049699218408102F984E36D7A832829 /* ReplaceMe.m */; };
-		2F921EBF88E2D0231DE0574CAFDDAAAD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B9E0D7755F70A4F5D3CA9D5A44EA826 /* Foundation.framework */; };
-		51E01644D7193282BF200CF9BD943ABF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B9E0D7755F70A4F5D3CA9D5A44EA826 /* Foundation.framework */; };
+		2F921EBF88E2D0231DE0574CAFDDAAAD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 280DBCD5C1C0BE1BCAD1478904A96424 /* Foundation.framework */; };
+		3F24F551ADD9988B112D3E619F8A25A9 /* NBInfiniteBannerView.h in Headers */ = {isa = PBXBuildFile; fileRef = A27E7E21F9685E41461FF963240881CD /* NBInfiniteBannerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		48E10943F1968FA5AABD5A07D6C53B87 /* NBInfiniteBannerView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A55CD11878A1C43C3C35311AD5C01545 /* NBInfiniteBannerView-dummy.m */; };
+		501C55310D0D8BC0F7A48E2EC5810869 /* NBInfiniteBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3FF226571F1A95CEC83C4AF0CA7BAD /* NBInfiniteBannerView.m */; };
+		51E01644D7193282BF200CF9BD943ABF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 280DBCD5C1C0BE1BCAD1478904A96424 /* Foundation.framework */; };
 		5BF73CC0EBB2EBBE4B73FB9F12CBCC5E /* Pods-NBInfiniteBannerView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A47F99F62ED9FA64CB598FD2EC1D52A /* Pods-NBInfiniteBannerView_Example-dummy.m */; };
-		634BEB27E9F44AFCE86C6D180F4C7A4A /* NBInfiniteBannerView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BCE317270D28D0CCA17F2206BEEE368D /* NBInfiniteBannerView-dummy.m */; };
+		95AF866930746453514A736DA01549FD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 280DBCD5C1C0BE1BCAD1478904A96424 /* Foundation.framework */; };
 		A4C9C605B61100FA41AB777AF3C48325 /* Pods-NBInfiniteBannerView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 01B47E2334391480F23CD60CB9FC4D85 /* Pods-NBInfiniteBannerView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B76838F08B9F6B19843FC541ED19EFBD /* NBInfiniteBannerView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F713B4A7EC40B0F0882C001D41291ADA /* NBInfiniteBannerView.bundle */; };
+		A68ECC0241D085DD19F4EF6913563F09 /* NBInfiniteBannerView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = BC8DCDECC13650958692D5449B993A75 /* NBInfiniteBannerView.bundle */; };
 		C213D96ED440E97A34C27B81EEC3A777 /* Pods-NBInfiniteBannerView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C5E8413AC43D74438D55F646D45E9C51 /* Pods-NBInfiniteBannerView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D7637C604342398515B50FF189409CDA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B9E0D7755F70A4F5D3CA9D5A44EA826 /* Foundation.framework */; };
-		F1B1C0C26325EC2B39AF5502CF8A8E24 /* NBInfiniteBannerView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9832A7060F29CD815D6BEB1C16D04C38 /* NBInfiniteBannerView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FC581ABCF91432C1C13A580BEEE6C322 /* NBInfiniteBannerView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D1D8C59A4C4D4A4771F54E0E1A09484 /* NBInfiniteBannerView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		789B0BCC182772D607A7973B4060CDFB /* PBXContainerItemProxy */ = {
+		355999D2716F745054795B4766C055B5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 6733D49611CA95DC2C9941F5E51DECBA;
+			remoteGlobalIDString = 8284C0D0A81B088F8D3F99DE18021308;
 			remoteInfo = "NBInfiniteBannerView-NBInfiniteBannerView";
 		};
-		9F6275BA1659B2525550BB76B809CD59 /* PBXContainerItemProxy */ = {
+		3B8E4EDE213BE6F3CF2E6862D4C1EA94 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A97B7CE254FDE8E5B664F1329E42B595;
+			remoteGlobalIDString = 1E4CFA43281C934A714F91F7F8EE09B0;
 			remoteInfo = NBInfiniteBannerView;
 		};
-		C43F324A7234D8D6447DDFEBB80C5921 /* PBXContainerItemProxy */ = {
+		C7B79C09AE57701577024654592B228B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A97B7CE254FDE8E5B664F1329E42B595;
+			remoteGlobalIDString = 1E4CFA43281C934A714F91F7F8EE09B0;
 			remoteInfo = NBInfiniteBannerView;
 		};
 /* End PBXContainerItemProxy section */
@@ -47,29 +48,31 @@
 /* Begin PBXFileReference section */
 		01B47E2334391480F23CD60CB9FC4D85 /* Pods-NBInfiniteBannerView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NBInfiniteBannerView_Example-umbrella.h"; sourceTree = "<group>"; };
 		0BBD245ED1D66A776C3CEB61F9738944 /* NBInfiniteBannerView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = NBInfiniteBannerView.xcconfig; sourceTree = "<group>"; };
-		1049699218408102F984E36D7A832829 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		18AAAF9716069601F917E4DC06994C91 /* Pods-NBInfiniteBannerView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NBInfiniteBannerView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		1D1D8C59A4C4D4A4771F54E0E1A09484 /* NBInfiniteBannerView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NBInfiniteBannerView-umbrella.h"; sourceTree = "<group>"; };
 		1D7ABC6E717EAC4E53121E263D05C996 /* NBInfiniteBannerView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = NBInfiniteBannerView.modulemap; sourceTree = "<group>"; };
 		20E759C2C6915C286594AB56042D5E51 /* Pods-NBInfiniteBannerView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NBInfiniteBannerView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		261DCB05F1C350642039F6F2F0A38F65 /* Pods-NBInfiniteBannerView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NBInfiniteBannerView_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		280DBCD5C1C0BE1BCAD1478904A96424 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		2877BA75CEADEEF1A62C32B14492AB05 /* Pods-NBInfiniteBannerView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NBInfiniteBannerView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		30F303FAC53895415763F1975F1F3756 /* NBInfiniteBannerView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NBInfiniteBannerView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		331BCD10D2449C7D3486808810853855 /* Pods-NBInfiniteBannerView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NBInfiniteBannerView_Example-frameworks.sh"; sourceTree = "<group>"; };
-		3B9E0D7755F70A4F5D3CA9D5A44EA826 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		417B82315C3A157EE562278D8B76539B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		53D593D097E61A6CF5D5F3BA078F6561 /* Pods-NBInfiniteBannerView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NBInfiniteBannerView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5CC086961A0D67170A3D9DC661AF8E6C /* Pods-NBInfiniteBannerView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NBInfiniteBannerView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		6A47F99F62ED9FA64CB598FD2EC1D52A /* Pods-NBInfiniteBannerView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NBInfiniteBannerView_Example-dummy.m"; sourceTree = "<group>"; };
+		6B3FF226571F1A95CEC83C4AF0CA7BAD /* NBInfiniteBannerView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = NBInfiniteBannerView.m; sourceTree = "<group>"; };
 		700C6F338C8EFB53288E8A34714829AF /* Pods-NBInfiniteBannerView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NBInfiniteBannerView_Example-resources.sh"; sourceTree = "<group>"; };
-		7627F530EFCDBAC601ABA65B54EC7DFC /* NBInfiniteBannerView-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "NBInfiniteBannerView-Private.xcconfig"; sourceTree = "<group>"; };
 		87AA839D90111B81C245CC3B295255B7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9420A16935AF87A45AE50EF835274308 /* NBInfiniteBannerView-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "NBInfiniteBannerView-Private.xcconfig"; sourceTree = "<group>"; };
 		95DCE6C9FF083DE81875796E9F9A0AC6 /* Pods-NBInfiniteBannerView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-NBInfiniteBannerView_Tests.modulemap"; sourceTree = "<group>"; };
-		9832A7060F29CD815D6BEB1C16D04C38 /* NBInfiniteBannerView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NBInfiniteBannerView-umbrella.h"; sourceTree = "<group>"; };
 		9C3043FB7CD359009DBDF0C899EC31A1 /* Pods-NBInfiniteBannerView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NBInfiniteBannerView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		9F46ED1358DBD776BAFEC4DD8BED1AA1 /* Pods-NBInfiniteBannerView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NBInfiniteBannerView_Tests-dummy.m"; sourceTree = "<group>"; };
+		A27E7E21F9685E41461FF963240881CD /* NBInfiniteBannerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = NBInfiniteBannerView.h; sourceTree = "<group>"; };
+		A55CD11878A1C43C3C35311AD5C01545 /* NBInfiniteBannerView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NBInfiniteBannerView-dummy.m"; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		BCE317270D28D0CCA17F2206BEEE368D /* NBInfiniteBannerView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NBInfiniteBannerView-dummy.m"; sourceTree = "<group>"; };
+		BC8DCDECC13650958692D5449B993A75 /* NBInfiniteBannerView.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NBInfiniteBannerView.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD01B0976CD702EBAA5A136A61464B4A /* Pods-NBInfiniteBannerView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NBInfiniteBannerView_Tests-resources.sh"; sourceTree = "<group>"; };
+		C017D8C130A32AA442FCA7E979D17AF9 /* NBInfiniteBannerView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NBInfiniteBannerView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5E8413AC43D74438D55F646D45E9C51 /* Pods-NBInfiniteBannerView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NBInfiniteBannerView_Tests-umbrella.h"; sourceTree = "<group>"; };
 		D2CCF483F9B9343191CB163075320649 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D6C41245DE9B01F4D58013A089874C51 /* Pods-NBInfiniteBannerView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NBInfiniteBannerView_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -77,23 +80,22 @@
 		E3D7D0A13AC3EB45E1F52A9D7F02633D /* Pods-NBInfiniteBannerView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-NBInfiniteBannerView_Example.modulemap"; sourceTree = "<group>"; };
 		EAA9A2FE0C6A0709109B1B39261BEE86 /* Pods-NBInfiniteBannerView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NBInfiniteBannerView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		F34CFF1AB71B22F0C88017DEF08F7E5E /* NBInfiniteBannerView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NBInfiniteBannerView-prefix.pch"; sourceTree = "<group>"; };
-		F713B4A7EC40B0F0882C001D41291ADA /* NBInfiniteBannerView.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NBInfiniteBannerView.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9B0A39E310327E2DC28C352023F394B /* Pods_NBInfiniteBannerView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NBInfiniteBannerView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3981CCAF37BA5A00920E2EFFAB323365 /* Frameworks */ = {
+		3807870FB26F90E7CFE6520B07A4B1F3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8235B042DAE730B3C954E50104D61055 /* Frameworks */ = {
+		6AB13548D4B0D14E89DFCED7C598F714 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7637C604342398515B50FF189409CDA /* Foundation.framework in Frameworks */,
+				95AF866930746453514A736DA01549FD /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,24 +145,16 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		319190619711544B4AB3D33664DBC06D /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				D3BF686652332A17ADF13A0E7861091C /* Classes */,
-			);
-			path = Pod;
-			sourceTree = "<group>";
-		};
 		52D32B79DADDDD509D472D68A0BA3BB1 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
 				87AA839D90111B81C245CC3B295255B7 /* Info.plist */,
 				1D7ABC6E717EAC4E53121E263D05C996 /* NBInfiniteBannerView.modulemap */,
 				0BBD245ED1D66A776C3CEB61F9738944 /* NBInfiniteBannerView.xcconfig */,
-				7627F530EFCDBAC601ABA65B54EC7DFC /* NBInfiniteBannerView-Private.xcconfig */,
-				BCE317270D28D0CCA17F2206BEEE368D /* NBInfiniteBannerView-dummy.m */,
+				9420A16935AF87A45AE50EF835274308 /* NBInfiniteBannerView-Private.xcconfig */,
+				A55CD11878A1C43C3C35311AD5C01545 /* NBInfiniteBannerView-dummy.m */,
 				F34CFF1AB71B22F0C88017DEF08F7E5E /* NBInfiniteBannerView-prefix.pch */,
-				9832A7060F29CD815D6BEB1C16D04C38 /* NBInfiniteBannerView-umbrella.h */,
+				1D1D8C59A4C4D4A4771F54E0E1A09484 /* NBInfiniteBannerView-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/NBInfiniteBannerView";
@@ -169,7 +163,7 @@
 		53F661C0CA7190D2CF05023FB33D61E4 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				3B9E0D7755F70A4F5D3CA9D5A44EA826 /* Foundation.framework */,
+				280DBCD5C1C0BE1BCAD1478904A96424 /* Foundation.framework */,
 			);
 			name = iOS;
 			sourceTree = "<group>";
@@ -192,6 +186,15 @@
 			path = "Target Support Files/Pods-NBInfiniteBannerView_Tests";
 			sourceTree = "<group>";
 		};
+		70EB352CF3492D97F8848D2001F612D5 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A27E7E21F9685E41461FF963240881CD /* NBInfiniteBannerView.h */,
+				6B3FF226571F1A95CEC83C4AF0CA7BAD /* NBInfiniteBannerView.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
@@ -206,7 +209,7 @@
 		91FBD982029F8FE90D17CF68C73D0D01 /* NBInfiniteBannerView */ = {
 			isa = PBXGroup;
 			children = (
-				319190619711544B4AB3D33664DBC06D /* Pod */,
+				CDA7D2DC6AC437CF6B8F6D2625130C9A /* Pod */,
 				52D32B79DADDDD509D472D68A0BA3BB1 /* Support Files */,
 			);
 			name = NBInfiniteBannerView;
@@ -232,20 +235,20 @@
 		CCA510CFBEA2D207524CDA0D73C3B561 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F713B4A7EC40B0F0882C001D41291ADA /* NBInfiniteBannerView.bundle */,
-				30F303FAC53895415763F1975F1F3756 /* NBInfiniteBannerView.framework */,
+				BC8DCDECC13650958692D5449B993A75 /* NBInfiniteBannerView.bundle */,
+				C017D8C130A32AA442FCA7E979D17AF9 /* NBInfiniteBannerView.framework */,
 				E375060F757B96E6B0624F28271D60BC /* Pods_NBInfiniteBannerView_Example.framework */,
 				F9B0A39E310327E2DC28C352023F394B /* Pods_NBInfiniteBannerView_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D3BF686652332A17ADF13A0E7861091C /* Classes */ = {
+		CDA7D2DC6AC437CF6B8F6D2625130C9A /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				1049699218408102F984E36D7A832829 /* ReplaceMe.m */,
+				70EB352CF3492D97F8848D2001F612D5 /* Classes */,
 			);
-			path = Classes;
+			path = Pod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,14 +262,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		37FDEAB2E7EC39F81155565D6991F906 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F1B1C0C26325EC2B39AF5502CF8A8E24 /* NBInfiniteBannerView-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		8728849C3DED0D1362484E1F8BE89262 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -275,16 +270,44 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		DD16DB288F3651BBB27E98D591488269 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC581ABCF91432C1C13A580BEEE6C322 /* NBInfiniteBannerView-umbrella.h in Headers */,
+				3F24F551ADD9988B112D3E619F8A25A9 /* NBInfiniteBannerView.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		6733D49611CA95DC2C9941F5E51DECBA /* NBInfiniteBannerView-NBInfiniteBannerView */ = {
+		1E4CFA43281C934A714F91F7F8EE09B0 /* NBInfiniteBannerView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0B93DC04043B467D1B05F0CE0D5E7E28 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView-NBInfiniteBannerView" */;
+			buildConfigurationList = 971D0EAC2A039297F650E8F6A66AA8A5 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView" */;
 			buildPhases = (
-				8F40894CCA1328E6E7B846D5BB829861 /* Sources */,
-				3981CCAF37BA5A00920E2EFFAB323365 /* Frameworks */,
-				B5C4F678790F045AF8BB5A2E27614977 /* Resources */,
+				88FC96D33322FD3B3E5BE6EDA306255A /* Sources */,
+				6AB13548D4B0D14E89DFCED7C598F714 /* Frameworks */,
+				F7E40A022021958D44E677C239ABFB90 /* Resources */,
+				DD16DB288F3651BBB27E98D591488269 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				71410B15AD37A9CD0E56940E6365D55B /* PBXTargetDependency */,
+			);
+			name = NBInfiniteBannerView;
+			productName = NBInfiniteBannerView;
+			productReference = C017D8C130A32AA442FCA7E979D17AF9 /* NBInfiniteBannerView.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		8284C0D0A81B088F8D3F99DE18021308 /* NBInfiniteBannerView-NBInfiniteBannerView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11887C76CDFD99CA7DF9189310A7A29B /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView-NBInfiniteBannerView" */;
+			buildPhases = (
+				D6037F138C6754CB9786E4F29BB48CAC /* Sources */,
+				3807870FB26F90E7CFE6520B07A4B1F3 /* Frameworks */,
+				BD242DD2C6231B863E4C4DEC0C6A4FF2 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -292,27 +315,8 @@
 			);
 			name = "NBInfiniteBannerView-NBInfiniteBannerView";
 			productName = "NBInfiniteBannerView-NBInfiniteBannerView";
-			productReference = F713B4A7EC40B0F0882C001D41291ADA /* NBInfiniteBannerView.bundle */;
+			productReference = BC8DCDECC13650958692D5449B993A75 /* NBInfiniteBannerView.bundle */;
 			productType = "com.apple.product-type.bundle";
-		};
-		A97B7CE254FDE8E5B664F1329E42B595 /* NBInfiniteBannerView */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 5F9EDF4B771772D9CE1BC0BD0405D526 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView" */;
-			buildPhases = (
-				C5729FFAF592D0C6B3E7B1AD60328A32 /* Sources */,
-				8235B042DAE730B3C954E50104D61055 /* Frameworks */,
-				0E1A01325822D9068FBE22B3D2EA5182 /* Resources */,
-				37FDEAB2E7EC39F81155565D6991F906 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				8D8649B791AD762EF0946B99867D17C7 /* PBXTargetDependency */,
-			);
-			name = NBInfiniteBannerView;
-			productName = NBInfiniteBannerView;
-			productReference = 30F303FAC53895415763F1975F1F3756 /* NBInfiniteBannerView.framework */;
-			productType = "com.apple.product-type.framework";
 		};
 		CAB27EDF498EC24DBB303D73ADB98057 /* Pods-NBInfiniteBannerView_Example */ = {
 			isa = PBXNativeTarget;
@@ -325,7 +329,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				83D30862E016C027F614DB517F68B412 /* PBXTargetDependency */,
+				51BD63AA335DE1A073074F3E2C25F89B /* PBXTargetDependency */,
 			);
 			name = "Pods-NBInfiniteBannerView_Example";
 			productName = "Pods-NBInfiniteBannerView_Example";
@@ -343,7 +347,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				1A70BED4DA4689E6B21DF518A56036B8 /* PBXTargetDependency */,
+				3481D3D7253B74C69519E5A21C914D00 /* PBXTargetDependency */,
 			);
 			name = "Pods-NBInfiniteBannerView_Tests";
 			productName = "Pods-NBInfiniteBannerView_Tests";
@@ -371,8 +375,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A97B7CE254FDE8E5B664F1329E42B595 /* NBInfiniteBannerView */,
-				6733D49611CA95DC2C9941F5E51DECBA /* NBInfiniteBannerView-NBInfiniteBannerView */,
+				1E4CFA43281C934A714F91F7F8EE09B0 /* NBInfiniteBannerView */,
+				8284C0D0A81B088F8D3F99DE18021308 /* NBInfiniteBannerView-NBInfiniteBannerView */,
 				CAB27EDF498EC24DBB303D73ADB98057 /* Pods-NBInfiniteBannerView_Example */,
 				F9984E88C4DA00D85B707FEBBAC5F019 /* Pods-NBInfiniteBannerView_Tests */,
 			);
@@ -380,28 +384,30 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0E1A01325822D9068FBE22B3D2EA5182 /* Resources */ = {
+		BD242DD2C6231B863E4C4DEC0C6A4FF2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B76838F08B9F6B19843FC541ED19EFBD /* NBInfiniteBannerView.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B5C4F678790F045AF8BB5A2E27614977 /* Resources */ = {
+		F7E40A022021958D44E677C239ABFB90 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A68ECC0241D085DD19F4EF6913563F09 /* NBInfiniteBannerView.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8F40894CCA1328E6E7B846D5BB829861 /* Sources */ = {
+		88FC96D33322FD3B3E5BE6EDA306255A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48E10943F1968FA5AABD5A07D6C53B87 /* NBInfiniteBannerView-dummy.m in Sources */,
+				501C55310D0D8BC0F7A48E2EC5810869 /* NBInfiniteBannerView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,12 +419,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C5729FFAF592D0C6B3E7B1AD60328A32 /* Sources */ = {
+		D6037F138C6754CB9786E4F29BB48CAC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				634BEB27E9F44AFCE86C6D180F4C7A4A /* NBInfiniteBannerView-dummy.m in Sources */,
-				2CE372CC3FC7EC3601B7FF19FFFDC703 /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,23 +437,23 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1A70BED4DA4689E6B21DF518A56036B8 /* PBXTargetDependency */ = {
+		3481D3D7253B74C69519E5A21C914D00 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = NBInfiniteBannerView;
-			target = A97B7CE254FDE8E5B664F1329E42B595 /* NBInfiniteBannerView */;
-			targetProxy = 9F6275BA1659B2525550BB76B809CD59 /* PBXContainerItemProxy */;
+			target = 1E4CFA43281C934A714F91F7F8EE09B0 /* NBInfiniteBannerView */;
+			targetProxy = C7B79C09AE57701577024654592B228B /* PBXContainerItemProxy */;
 		};
-		83D30862E016C027F614DB517F68B412 /* PBXTargetDependency */ = {
+		51BD63AA335DE1A073074F3E2C25F89B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = NBInfiniteBannerView;
-			target = A97B7CE254FDE8E5B664F1329E42B595 /* NBInfiniteBannerView */;
-			targetProxy = C43F324A7234D8D6447DDFEBB80C5921 /* PBXContainerItemProxy */;
+			target = 1E4CFA43281C934A714F91F7F8EE09B0 /* NBInfiniteBannerView */;
+			targetProxy = 3B8E4EDE213BE6F3CF2E6862D4C1EA94 /* PBXContainerItemProxy */;
 		};
-		8D8649B791AD762EF0946B99867D17C7 /* PBXTargetDependency */ = {
+		71410B15AD37A9CD0E56940E6365D55B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "NBInfiniteBannerView-NBInfiniteBannerView";
-			target = 6733D49611CA95DC2C9941F5E51DECBA /* NBInfiniteBannerView-NBInfiniteBannerView */;
-			targetProxy = 789B0BCC182772D607A7973B4060CDFB /* PBXContainerItemProxy */;
+			target = 8284C0D0A81B088F8D3F99DE18021308 /* NBInfiniteBannerView-NBInfiniteBannerView */;
+			targetProxy = 355999D2716F745054795B4766C055B5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -556,18 +560,6 @@
 			};
 			name = Debug;
 		};
-		16CDFB2C51CE9FBF0BA333FF5C887A4C /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7627F530EFCDBAC601ABA65B54EC7DFC /* NBInfiniteBannerView-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = NBInfiniteBannerView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
 		19F711699C7BCF60D514C85D4013F25C /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = EAA9A2FE0C6A0709109B1B39261BEE86 /* Pods-NBInfiniteBannerView_Example.release.xcconfig */;
@@ -597,30 +589,15 @@
 			};
 			name = Release;
 		};
-		59D14855DF4A696E097E50C3B268FEE2 /* Release */ = {
+		3F131CEF204C4C70C89679F597BE034B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7627F530EFCDBAC601ABA65B54EC7DFC /* NBInfiniteBannerView-Private.xcconfig */;
+			baseConfigurationReference = 9420A16935AF87A45AE50EF835274308 /* NBInfiniteBannerView-Private.xcconfig */;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 0.1.0;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 0.1.0;
-				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/NBInfiniteBannerView/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = NBInfiniteBannerView;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
@@ -653,9 +630,36 @@
 			};
 			name = Debug;
 		};
-		A15B10463E5F2697ADF2520BAB929D93 /* Debug */ = {
+		749EB6311EA1AEE4382ED1D53FE2AA01 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7627F530EFCDBAC601ABA65B54EC7DFC /* NBInfiniteBannerView-Private.xcconfig */;
+			baseConfigurationReference = 9420A16935AF87A45AE50EF835274308 /* NBInfiniteBannerView-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 0.1.0;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 0.1.0;
+				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/NBInfiniteBannerView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = NBInfiniteBannerView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		9B658AE9A3C5F90575CA1D78AABA4AA3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9420A16935AF87A45AE50EF835274308 /* NBInfiniteBannerView-Private.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 0.1.0;
@@ -680,9 +684,9 @@
 			};
 			name = Debug;
 		};
-		C8569F7DD7A24259F8AD659871303053 /* Debug */ = {
+		C0A2EBFE49C4E997200575F9D000F092 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7627F530EFCDBAC601ABA65B54EC7DFC /* NBInfiniteBannerView-Private.xcconfig */;
+			baseConfigurationReference = 9420A16935AF87A45AE50EF835274308 /* NBInfiniteBannerView-Private.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				PRODUCT_NAME = NBInfiniteBannerView;
@@ -724,11 +728,11 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0B93DC04043B467D1B05F0CE0D5E7E28 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView-NBInfiniteBannerView" */ = {
+		11887C76CDFD99CA7DF9189310A7A29B /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView-NBInfiniteBannerView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C8569F7DD7A24259F8AD659871303053 /* Debug */,
-				16CDFB2C51CE9FBF0BA333FF5C887A4C /* Release */,
+				C0A2EBFE49C4E997200575F9D000F092 /* Debug */,
+				3F131CEF204C4C70C89679F597BE034B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -742,20 +746,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F9EDF4B771772D9CE1BC0BD0405D526 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				A15B10463E5F2697ADF2520BAB929D93 /* Debug */,
-				59D14855DF4A696E097E50C3B268FEE2 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		651C384F2A5849F76B6AD0BFAC29BEEB /* Build configuration list for PBXNativeTarget "Pods-NBInfiniteBannerView_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				150A8278F10B47258D9163585DA501D1 /* Debug */,
 				EC84CB039AD083DAD89D2D8445CE33E8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		971D0EAC2A039297F650E8F6A66AA8A5 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9B658AE9A3C5F90575CA1D78AABA4AA3 /* Debug */,
+				749EB6311EA1AEE4382ED1D53FE2AA01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

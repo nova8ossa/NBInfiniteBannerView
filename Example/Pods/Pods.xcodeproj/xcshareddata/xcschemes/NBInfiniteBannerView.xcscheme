@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "233B5AAFCABAC91F9A06F784"
+               BlueprintIdentifier = "F53BC2139E2A8875F86281F5"
                BuildableName = "NBInfiniteBannerView.framework"
                BlueprintName = "NBInfiniteBannerView"
                ReferencedContainer = "container:Pods.xcodeproj">
