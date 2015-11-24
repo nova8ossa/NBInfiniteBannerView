@@ -53,7 +53,9 @@ code_sign_if_enabled() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework 'Pods-NBInfiniteBannerView_Tests/NBInfiniteBannerView.framework'
+  install_framework 'Pods-NBInfiniteBannerView_Tests/SDWebImage.framework'
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework 'Pods-NBInfiniteBannerView_Tests/NBInfiniteBannerView.framework'
+  install_framework 'Pods-NBInfiniteBannerView_Tests/SDWebImage.framework'
 fi

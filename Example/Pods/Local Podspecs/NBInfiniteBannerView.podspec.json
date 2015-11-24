@@ -21,5 +21,10 @@
     "NBInfiniteBannerView": [
       "Pod/Assets/*.png"
     ]
+  },
+  "dependencies": {
+    "SDWebImage": [
+      "~> 3.7.3"
+    ]
   }
 }
