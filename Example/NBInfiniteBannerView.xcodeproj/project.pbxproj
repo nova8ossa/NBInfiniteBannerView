@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3393D7BE1E60A8CDDF9BFE18 /* Pods_NBInfiniteBannerView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D64D380FFD5449EC8F4BA8D /* Pods_NBInfiniteBannerView_Tests.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		37B18BFDDBB505BB93AF5217 /* Pods_NBInfiniteBannerView_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DF94D5BCC7BF696BBC762D0B /* Pods_NBInfiniteBannerView_Example.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		41FAAE9E1C05DC1200AA4FB8 /* NBBannerModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 41FAAE9D1C05DC1200AA4FB8 /* NBBannerModel.m */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -39,6 +40,8 @@
 		19074707AF3DD98A7315FC94 /* Pods-NBInfiniteBannerView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NBInfiniteBannerView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-NBInfiniteBannerView_Example/Pods-NBInfiniteBannerView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		1D64D380FFD5449EC8F4BA8D /* Pods_NBInfiniteBannerView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NBInfiniteBannerView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		302EBF2E028EA18A85E2621D /* Pods-NBInfiniteBannerView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NBInfiniteBannerView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NBInfiniteBannerView_Tests/Pods-NBInfiniteBannerView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		41FAAE9C1C05DC1200AA4FB8 /* NBBannerModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBBannerModel.h; sourceTree = "<group>"; };
+		41FAAE9D1C05DC1200AA4FB8 /* NBBannerModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBBannerModel.m; sourceTree = "<group>"; };
 		488AF604FB2A5B4A909D6FE2 /* Pods-NBInfiniteBannerView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NBInfiniteBannerView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NBInfiniteBannerView_Example/Pods-NBInfiniteBannerView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* NBInfiniteBannerView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NBInfiniteBannerView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -144,6 +147,8 @@
 				6003F59C195388D20070C39A /* NBAppDelegate.h */,
 				6003F59D195388D20070C39A /* NBAppDelegate.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
+				41FAAE9C1C05DC1200AA4FB8 /* NBBannerModel.h */,
+				41FAAE9D1C05DC1200AA4FB8 /* NBBannerModel.m */,
 				6003F5A5195388D20070C39A /* NBViewController.h */,
 				6003F5A6195388D20070C39A /* NBViewController.m */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
@@ -391,6 +396,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6003F59E195388D20070C39A /* NBAppDelegate.m in Sources */,
+				41FAAE9E1C05DC1200AA4FB8 /* NBBannerModel.m in Sources */,
 				6003F5A7195388D20070C39A /* NBViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
 			);

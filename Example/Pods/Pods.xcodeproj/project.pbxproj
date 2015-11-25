@@ -10,20 +10,20 @@
 		00A5C06D70A19916A3AA16B56A6B06DE /* SDWebImageManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 065352E6AEDDBF7E5A7A30AFEC26570D /* SDWebImageManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		00D64D8D069226AA544C9B2BE414B310 /* UIImage+GIF.h in Headers */ = {isa = PBXBuildFile; fileRef = F584ACAC1E6734C0CD383937E8FA1616 /* UIImage+GIF.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0196BA3610D4297491517F5EA77897DC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DE104BF1139A045B9B4216BDFDA8460 /* Foundation.framework */; };
-		05D13C6BE82E9427E35BBE2848E6E938 /* NBInfiniteBannerView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D55375B5CEAA7F1688AAEC77F3E4354C /* NBInfiniteBannerView-dummy.m */; };
 		0D294FC8161890785F2EE7845018C06E /* NSData+ImageContentType.m in Sources */ = {isa = PBXBuildFile; fileRef = A94BDA597E1ADA29938165998A47AD09 /* NSData+ImageContentType.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		0DFEEC44263FBCBAC890D12ADB7A5AB8 /* SDWebImageCompat.m in Sources */ = {isa = PBXBuildFile; fileRef = 63207122068F629D33DDB7EB25FCB21C /* SDWebImageCompat.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		0F65E9720342D16E0E5E5C974AF889B2 /* NBInfiniteBannerView.h in Headers */ = {isa = PBXBuildFile; fileRef = F2B1C8E86D034C1350B49AFDE388E9EE /* NBInfiniteBannerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		11CA5FA2F4276B19DA452F30FECF06AF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DE104BF1139A045B9B4216BDFDA8460 /* Foundation.framework */; };
+		119B3E0B01EBA86BB485C71DFBEFB8B9 /* NBInfiniteBannerView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B865BB5B06E97DAE1BD947AD47FF50D0 /* NBInfiniteBannerView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		14B1D5628D86026B80A02E77ECD9B00A /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F8827310B2FE42170810CE4AFF9D473 /* UIView+WebCacheOperation.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		2162A64E6EF7F53EEBE9DC67C39DD688 /* NBInfiniteBannerView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 0CC1BBE2CA778F8FDECDACF35D0699F8 /* NBInfiniteBannerView.bundle */; };
+		180661368D60D7CCF754D29FCCE78D54 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64B859BB38B1ED0EC095964F719E8CFB /* SDWebImage.framework */; };
 		241BBDAFDCD5BDE21BEC3953A470E7AC /* SDWebImageOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = C8E2388FD120DAAFABA67B4EB1358BC6 /* SDWebImageOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2467027ADA59E10D49087C163DAE8832 /* NBInfiniteBannerView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C1D73D5081DFC65A182F4E8FCA88A30F /* NBInfiniteBannerView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		25FFA6BD8D35F1657E958AFC124D5B9F /* NBInfiniteBannerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7987A77610D98432A3D7B9E843A0B1B8 /* NBInfiniteBannerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		27501010323D44134110117667A58821 /* SDWebImageDownloaderOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = E565EAB874E0326DAF1E5958673C7D8E /* SDWebImageDownloaderOperation.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		28812A5C5F5A20E6DF51920F3CDFF701 /* SDWebImagePrefetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = AF4AC8FE21C01A522E6081F787113829 /* SDWebImagePrefetcher.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		2C6C32191A8E4B309987EDE13CCD2678 /* NBInfiniteBannerView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 44B3F885AE9C28C13E5B844156A7066D /* NBInfiniteBannerView-dummy.m */; };
 		3316E7C70DBDA1F447D2E577692E96DE /* Pods-NBInfiniteBannerView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4BE6F375AEB789CA7A74FB6C01464DB3 /* Pods-NBInfiniteBannerView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		36A3561BFAF840764C05F9500D87323F /* SDWebImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A233317F8104BC27DD073EBFB8C57EEC /* SDWebImageManager.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		3BA0E7F7756387D45AAC8B03DF002815 /* UIImageView+HighlightedWebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 190634E95E803CFC51AF5E97D7D402D5 /* UIImageView+HighlightedWebCache.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		429AD928229EFAF6C1BB2BE2109B2183 /* NBInfiniteBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C7FFD801278D6D16595AB45C48A61C2 /* NBInfiniteBannerView.m */; };
 		50B5C323D893DDA2DFF62DFAB7F5A86C /* SDWebImageDownloaderOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5ED9E4D7280AD4122656B1508BC28D54 /* SDWebImageDownloaderOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5654AEE6228ED8E59D716B59A086B638 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E0D800F22CA0E020B76C9FA413D0F081 /* ImageIO.framework */; };
 		5E2784A3B9C7733A87F29FF89961C6C8 /* SDWebImage-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 50D5153F825E59E39BBF9940B1F3058F /* SDWebImage-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -33,18 +33,18 @@
 		91838473483586AEE79A3CE5A8A0F760 /* SDImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EB8F84003EAC8D25AAA335FB4891742 /* SDImageCache.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		918925E758B9CF1EB782014504385933 /* SDWebImageDownloader.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A5E11473DD802A45E5F8554929B8738 /* SDWebImageDownloader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9531D255DFCEAD5AEBB69526351CDF10 /* SDWebImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 992625925D1C9BA1A0BA2261E561937B /* SDWebImageDownloader.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		A7C17277B0CECAAFDFD39856C2C47DB2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DE104BF1139A045B9B4216BDFDA8460 /* Foundation.framework */; };
 		A911D66CF6E80A517A1EE92B1BCD220A /* UIImage+GIF.m in Sources */ = {isa = PBXBuildFile; fileRef = D330BE5ED2C117C3AC793BC848889EC7 /* UIImage+GIF.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		AAA138F0836AAFE699EDD6B15E439F74 /* NSData+ImageContentType.h in Headers */ = {isa = PBXBuildFile; fileRef = BAF07AF20E0D1E0FA491D86DF646E111 /* NSData+ImageContentType.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AEABFD91006510CDD34A74D6AC97C48C /* NBInfiniteBannerView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 09E4A1AC66E11CEE2DAFA25437D46817 /* NBInfiniteBannerView.bundle */; };
 		B5D4A3EFED42C133F2B03B3543699B29 /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D1315F8E69E96936F1473CC109C173 /* UIImageView+WebCache.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		B8A2CFE3DDD10D166FE94B1D1F43E560 /* Pods-NBInfiniteBannerView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 15DC30EE59A36DFF5B00D72443149F8F /* Pods-NBInfiniteBannerView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BBBF4E616C79C45790FC86E53C92C60E /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E615EA2C552859DB68DF028DEB701C9 /* SDWebImage.framework */; };
 		C7C2A233E54E544AEB3C1E6D4612D20A /* UIButton+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = E8E243AEBB52CDAB037C96F2DC1FE70D /* UIButton+WebCache.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		CF94A8D17F60FF58601D4FADFD308351 /* Pods-NBInfiniteBannerView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D16C58830C710ECEAED7710566192BB /* Pods-NBInfiniteBannerView_Example-dummy.m */; };
 		D1376A9522BA91238282A6FA7D7341D0 /* SDImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B34BA00ACA50E43DA227AEB0563865EE /* SDImageCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB580210012243B347B8A79D25577F89 /* UIView+WebCacheOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F12C64A1CC3A23C1B3D9995C3BBED8E /* UIView+WebCacheOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DE13B71A1C823DFD2CD8CDFCA3280FC2 /* UIImage+MultiFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = 66848B793C8F96D9D9956D4C6E50B31C /* UIImage+MultiFormat.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E085821F65F1A32318CBFA840744FC69 /* SDWebImageCompat.h in Headers */ = {isa = PBXBuildFile; fileRef = 4FEF7F2015C0ACCC5A06F88736F7D83D /* SDWebImageCompat.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E15F5A84EB02DBDBC06B4DBDA3FDF2AF /* NBInfiniteBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 13723B41CE96A9A118729EE1F268AE54 /* NBInfiniteBannerView.m */; };
 		EBB2598081C4F2442C1C8C885412F5A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DE104BF1139A045B9B4216BDFDA8460 /* Foundation.framework */; };
 		EC945F5BF9040A6635A6CBAC726A6096 /* SDWebImage-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 95B066C3073F61164D226DF56C7D705D /* SDWebImage-dummy.m */; };
 		ED030EE0A6130DF968850091C2E7B793 /* Pods-NBInfiniteBannerView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D07D76EB2D39E78C7E28AAC4671FBA1E /* Pods-NBInfiniteBannerView_Tests-dummy.m */; };
@@ -56,59 +56,58 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		15746A4F80EB2753A5B8606C9283AB72 /* PBXContainerItemProxy */ = {
+		4806092245B677D71A18F9E3C2E57BC2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B0503334003B3A02E0A282448E34B07C;
+			remoteGlobalIDString = 9666688CB41B38A9914616144C9C7A3E;
+			remoteInfo = SDWebImage;
+		};
+		A675EF6A58056E7B8D08951453670F30 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9666688CB41B38A9914616144C9C7A3E;
+			remoteInfo = SDWebImage;
+		};
+		C076B8C25D9350D404CE55BBBF126935 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D631BA31A3E365D13738A3876778AAA9;
+			remoteInfo = NBInfiniteBannerView;
+		};
+		D7B527BD511524673BC5AF581E60AA89 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D631BA31A3E365D13738A3876778AAA9;
+			remoteInfo = NBInfiniteBannerView;
+		};
+		E46656478C0389698E466F5D8BD71416 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9666688CB41B38A9914616144C9C7A3E;
+			remoteInfo = SDWebImage;
+		};
+		F11B8F7A310FC3E6A16AF7FD44A6D322 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F2A8DA3AEDF3B6919C47CBB4C7335432;
 			remoteInfo = "NBInfiniteBannerView-NBInfiniteBannerView";
-		};
-		18D7C6A225F7A98791BE514AFD46144C /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 9666688CB41B38A9914616144C9C7A3E;
-			remoteInfo = SDWebImage;
-		};
-		6D0128C70D389F98AB223EC9B153A3B2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 282A33B58ED950FF7043879DF2BC0151;
-			remoteInfo = NBInfiniteBannerView;
-		};
-		790DD7D7DF92CA23B3A2CB5E8E10AC7A /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 282A33B58ED950FF7043879DF2BC0151;
-			remoteInfo = NBInfiniteBannerView;
-		};
-		9152A8395CA6B3B4436F62EC6DA53F84 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 9666688CB41B38A9914616144C9C7A3E;
-			remoteInfo = SDWebImage;
-		};
-		9E46DF134FD899C9D06628E43C45FBA2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 9666688CB41B38A9914616144C9C7A3E;
-			remoteInfo = SDWebImage;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		03B4E571A83C7139215C766DF64FCFC5 /* SDWebImageDecoder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDecoder.m; path = SDWebImage/SDWebImageDecoder.m; sourceTree = "<group>"; };
 		065352E6AEDDBF7E5A7A30AFEC26570D /* SDWebImageManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageManager.h; path = SDWebImage/SDWebImageManager.h; sourceTree = "<group>"; };
+		09E4A1AC66E11CEE2DAFA25437D46817 /* NBInfiniteBannerView.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NBInfiniteBannerView.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BBD245ED1D66A776C3CEB61F9738944 /* NBInfiniteBannerView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = NBInfiniteBannerView.xcconfig; sourceTree = "<group>"; };
-		0CC1BBE2CA778F8FDECDACF35D0699F8 /* NBInfiniteBannerView.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NBInfiniteBannerView.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EB8F84003EAC8D25AAA335FB4891742 /* SDImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCache.m; path = SDWebImage/SDImageCache.m; sourceTree = "<group>"; };
 		11D65E0BBA5F131C870A17BF5485358B /* SDWebImage-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDWebImage-prefix.pch"; sourceTree = "<group>"; };
 		1244CADDF20771D037E1454D14AD41AE /* UIImageView+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+WebCache.h"; path = "SDWebImage/UIImageView+WebCache.h"; sourceTree = "<group>"; };
-		13723B41CE96A9A118729EE1F268AE54 /* NBInfiniteBannerView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = NBInfiniteBannerView.m; sourceTree = "<group>"; };
 		15DC30EE59A36DFF5B00D72443149F8F /* Pods-NBInfiniteBannerView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NBInfiniteBannerView_Example-umbrella.h"; sourceTree = "<group>"; };
 		18AAAF9716069601F917E4DC06994C91 /* Pods-NBInfiniteBannerView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NBInfiniteBannerView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		190634E95E803CFC51AF5E97D7D402D5 /* UIImageView+HighlightedWebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+HighlightedWebCache.m"; path = "SDWebImage/UIImageView+HighlightedWebCache.m"; sourceTree = "<group>"; };
@@ -119,14 +118,15 @@
 		2877BA75CEADEEF1A62C32B14492AB05 /* Pods-NBInfiniteBannerView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NBInfiniteBannerView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2DE104BF1139A045B9B4216BDFDA8460 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		2E55A4429F063A37A9B01D65C08EDB37 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2E615EA2C552859DB68DF028DEB701C9 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F8827310B2FE42170810CE4AFF9D473 /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WebCacheOperation.m"; path = "SDWebImage/UIView+WebCacheOperation.m"; sourceTree = "<group>"; };
 		31585A9399288301ACA227290D428045 /* SDWebImageDecoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDecoder.h; path = SDWebImage/SDWebImageDecoder.h; sourceTree = "<group>"; };
 		331BCD10D2449C7D3486808810853855 /* Pods-NBInfiniteBannerView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NBInfiniteBannerView_Example-frameworks.sh"; sourceTree = "<group>"; };
 		35B078AE5EC4F5270B4A374144E32639 /* UIImageView+HighlightedWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+HighlightedWebCache.h"; path = "SDWebImage/UIImageView+HighlightedWebCache.h"; sourceTree = "<group>"; };
 		36D1315F8E69E96936F1473CC109C173 /* UIImageView+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+WebCache.m"; path = "SDWebImage/UIImageView+WebCache.m"; sourceTree = "<group>"; };
+		379F9652362D0E1892AAECEB79FC211A /* NBInfiniteBannerView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NBInfiniteBannerView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		417B82315C3A157EE562278D8B76539B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		42A5CEADE84AD83CE372400CE369FDFF /* Pods-NBInfiniteBannerView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NBInfiniteBannerView_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		44B3F885AE9C28C13E5B844156A7066D /* NBInfiniteBannerView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NBInfiniteBannerView-dummy.m"; sourceTree = "<group>"; };
 		4BE6F375AEB789CA7A74FB6C01464DB3 /* Pods-NBInfiniteBannerView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NBInfiniteBannerView_Tests-umbrella.h"; sourceTree = "<group>"; };
 		4F12C64A1CC3A23C1B3D9995C3BBED8E /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+WebCacheOperation.h"; path = "SDWebImage/UIView+WebCacheOperation.h"; sourceTree = "<group>"; };
 		4FEF7F2015C0ACCC5A06F88736F7D83D /* SDWebImageCompat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageCompat.h; path = SDWebImage/SDWebImageCompat.h; sourceTree = "<group>"; };
@@ -134,10 +134,13 @@
 		586B1ABA9DDA2E56D750AA0055BB0544 /* Pods-NBInfiniteBannerView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NBInfiniteBannerView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5ED9E4D7280AD4122656B1508BC28D54 /* SDWebImageDownloaderOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloaderOperation.h; path = SDWebImage/SDWebImageDownloaderOperation.h; sourceTree = "<group>"; };
 		63207122068F629D33DDB7EB25FCB21C /* SDWebImageCompat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageCompat.m; path = SDWebImage/SDWebImageCompat.m; sourceTree = "<group>"; };
+		64B859BB38B1ED0EC095964F719E8CFB /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		66848B793C8F96D9D9956D4C6E50B31C /* UIImage+MultiFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+MultiFormat.h"; path = "SDWebImage/UIImage+MultiFormat.h"; sourceTree = "<group>"; };
 		700C6F338C8EFB53288E8A34714829AF /* Pods-NBInfiniteBannerView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NBInfiniteBannerView_Example-resources.sh"; sourceTree = "<group>"; };
 		75293022DBAED490A01AFF56B98EE4E0 /* Pods-NBInfiniteBannerView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NBInfiniteBannerView_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		7987A77610D98432A3D7B9E843A0B1B8 /* NBInfiniteBannerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = NBInfiniteBannerView.h; sourceTree = "<group>"; };
 		7A5E11473DD802A45E5F8554929B8738 /* SDWebImageDownloader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloader.h; path = SDWebImage/SDWebImageDownloader.h; sourceTree = "<group>"; };
+		7C7FFD801278D6D16595AB45C48A61C2 /* NBInfiniteBannerView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = NBInfiniteBannerView.m; sourceTree = "<group>"; };
 		80A2C3FFEC49FB72A28C2DF87430E298 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8517DC830B0534B3C792A2B444B0A126 /* SDWebImage-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "SDWebImage-Private.xcconfig"; sourceTree = "<group>"; };
 		87AA839D90111B81C245CC3B295255B7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -153,44 +156,34 @@
 		AC9C3498B40210B7AD11A75EB9870604 /* SDWebImagePrefetcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImagePrefetcher.h; path = SDWebImage/SDWebImagePrefetcher.h; sourceTree = "<group>"; };
 		AF4AC8FE21C01A522E6081F787113829 /* SDWebImagePrefetcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImagePrefetcher.m; path = SDWebImage/SDWebImagePrefetcher.m; sourceTree = "<group>"; };
 		B34BA00ACA50E43DA227AEB0563865EE /* SDImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCache.h; path = SDWebImage/SDImageCache.h; sourceTree = "<group>"; };
+		B865BB5B06E97DAE1BD947AD47FF50D0 /* NBInfiniteBannerView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NBInfiniteBannerView-umbrella.h"; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BAF07AF20E0D1E0FA491D86DF646E111 /* NSData+ImageContentType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSData+ImageContentType.h"; path = "SDWebImage/NSData+ImageContentType.h"; sourceTree = "<group>"; };
 		BD01B0976CD702EBAA5A136A61464B4A /* Pods-NBInfiniteBannerView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NBInfiniteBannerView_Tests-resources.sh"; sourceTree = "<group>"; };
-		C1D73D5081DFC65A182F4E8FCA88A30F /* NBInfiniteBannerView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NBInfiniteBannerView-umbrella.h"; sourceTree = "<group>"; };
 		C85590BACF6CCF0C68E6DB42F2DBE9C4 /* Pods_NBInfiniteBannerView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NBInfiniteBannerView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8E2388FD120DAAFABA67B4EB1358BC6 /* SDWebImageOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageOperation.h; path = SDWebImage/SDWebImageOperation.h; sourceTree = "<group>"; };
-		CE995D18EF34327ADFAE4449AE0E403B /* NBInfiniteBannerView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NBInfiniteBannerView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D07D76EB2D39E78C7E28AAC4671FBA1E /* Pods-NBInfiniteBannerView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NBInfiniteBannerView_Tests-dummy.m"; sourceTree = "<group>"; };
 		D2CCF483F9B9343191CB163075320649 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D330BE5ED2C117C3AC793BC848889EC7 /* UIImage+GIF.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+GIF.m"; path = "SDWebImage/UIImage+GIF.m"; sourceTree = "<group>"; };
 		D37A91D279D78180C6D0B3F7E5AB8A2F /* SDWebImage.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SDWebImage.xcconfig; sourceTree = "<group>"; };
-		D55375B5CEAA7F1688AAEC77F3E4354C /* NBInfiniteBannerView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NBInfiniteBannerView-dummy.m"; sourceTree = "<group>"; };
 		DBAA2BF1E25B19C8383E7365A90E20E9 /* UIButton+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+WebCache.h"; path = "SDWebImage/UIButton+WebCache.h"; sourceTree = "<group>"; };
 		DEFF865B36632B0869C126B057703031 /* UIImage+MultiFormat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+MultiFormat.m"; path = "SDWebImage/UIImage+MultiFormat.m"; sourceTree = "<group>"; };
 		E0D800F22CA0E020B76C9FA413D0F081 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/ImageIO.framework; sourceTree = DEVELOPER_DIR; };
 		E3D7D0A13AC3EB45E1F52A9D7F02633D /* Pods-NBInfiniteBannerView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-NBInfiniteBannerView_Example.modulemap"; sourceTree = "<group>"; };
 		E565EAB874E0326DAF1E5958673C7D8E /* SDWebImageDownloaderOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDownloaderOperation.m; path = SDWebImage/SDWebImageDownloaderOperation.m; sourceTree = "<group>"; };
 		E8E243AEBB52CDAB037C96F2DC1FE70D /* UIButton+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+WebCache.m"; path = "SDWebImage/UIButton+WebCache.m"; sourceTree = "<group>"; };
-		EF47C7DBFE93175A4D7D6F891700AF65 /* NBInfiniteBannerView-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "NBInfiniteBannerView-Private.xcconfig"; sourceTree = "<group>"; };
-		F2B1C8E86D034C1350B49AFDE388E9EE /* NBInfiniteBannerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = NBInfiniteBannerView.h; sourceTree = "<group>"; };
 		F34CFF1AB71B22F0C88017DEF08F7E5E /* NBInfiniteBannerView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NBInfiniteBannerView-prefix.pch"; sourceTree = "<group>"; };
 		F584ACAC1E6734C0CD383937E8FA1616 /* UIImage+GIF.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+GIF.h"; path = "SDWebImage/UIImage+GIF.h"; sourceTree = "<group>"; };
+		F8020406A22F55E7913F562268E810B2 /* NBInfiniteBannerView-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "NBInfiniteBannerView-Private.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		20638C16D74EB6AABA0259E501E95E1F /* Frameworks */ = {
+		35C419371716735E059F903A6E604180 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11CA5FA2F4276B19DA452F30FECF06AF /* Foundation.framework in Frameworks */,
-				BBBF4E616C79C45790FC86E53C92C60E /* SDWebImage.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		443A7A0FEAF4419D5A65C140CDE78437 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				A7C17277B0CECAAFDFD39856C2C47DB2 /* Foundation.framework in Frameworks */,
+				180661368D60D7CCF754D29FCCE78D54 /* SDWebImage.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -199,6 +192,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				0196BA3610D4297491517F5EA77897DC /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6F01B3DDED7482330DB05E9B1F3ED49E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,7 +252,7 @@
 		23EAA5D571397353D4D311351A2D82BB /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				2E615EA2C552859DB68DF028DEB701C9 /* SDWebImage.framework */,
+				64B859BB38B1ED0EC095964F719E8CFB /* SDWebImage.framework */,
 				A0F202C487C25BF2B558709173A4FC66 /* iOS */,
 			);
 			name = Frameworks;
@@ -273,10 +273,10 @@
 				87AA839D90111B81C245CC3B295255B7 /* Info.plist */,
 				1D7ABC6E717EAC4E53121E263D05C996 /* NBInfiniteBannerView.modulemap */,
 				0BBD245ED1D66A776C3CEB61F9738944 /* NBInfiniteBannerView.xcconfig */,
-				EF47C7DBFE93175A4D7D6F891700AF65 /* NBInfiniteBannerView-Private.xcconfig */,
-				D55375B5CEAA7F1688AAEC77F3E4354C /* NBInfiniteBannerView-dummy.m */,
+				F8020406A22F55E7913F562268E810B2 /* NBInfiniteBannerView-Private.xcconfig */,
+				44B3F885AE9C28C13E5B844156A7066D /* NBInfiniteBannerView-dummy.m */,
 				F34CFF1AB71B22F0C88017DEF08F7E5E /* NBInfiniteBannerView-prefix.pch */,
-				C1D73D5081DFC65A182F4E8FCA88A30F /* NBInfiniteBannerView-umbrella.h */,
+				B865BB5B06E97DAE1BD947AD47FF50D0 /* NBInfiniteBannerView-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/NBInfiniteBannerView";
@@ -303,8 +303,8 @@
 		70EB352CF3492D97F8848D2001F612D5 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				F2B1C8E86D034C1350B49AFDE388E9EE /* NBInfiniteBannerView.h */,
-				13723B41CE96A9A118729EE1F268AE54 /* NBInfiniteBannerView.m */,
+				7987A77610D98432A3D7B9E843A0B1B8 /* NBInfiniteBannerView.h */,
+				7C7FFD801278D6D16595AB45C48A61C2 /* NBInfiniteBannerView.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -410,8 +410,8 @@
 		CCA510CFBEA2D207524CDA0D73C3B561 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0CC1BBE2CA778F8FDECDACF35D0699F8 /* NBInfiniteBannerView.bundle */,
-				CE995D18EF34327ADFAE4449AE0E403B /* NBInfiniteBannerView.framework */,
+				09E4A1AC66E11CEE2DAFA25437D46817 /* NBInfiniteBannerView.bundle */,
+				379F9652362D0E1892AAECEB79FC211A /* NBInfiniteBannerView.framework */,
 				99884F598E79D841FF09DC52D8C56ADF /* Pods_NBInfiniteBannerView_Example.framework */,
 				C85590BACF6CCF0C68E6DB42F2DBE9C4 /* Pods_NBInfiniteBannerView_Tests.framework */,
 				2E55A4429F063A37A9B01D65C08EDB37 /* SDWebImage.framework */,
@@ -438,12 +438,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		758C269D87B8869F368FB68CC5DD15FF /* Headers */ = {
+		9C74A2729B393EA4A13AA608F9CA3599 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2467027ADA59E10D49087C163DAE8832 /* NBInfiniteBannerView-umbrella.h in Headers */,
-				0F65E9720342D16E0E5E5C974AF889B2 /* NBInfiniteBannerView.h in Headers */,
+				119B3E0B01EBA86BB485C71DFBEFB8B9 /* NBInfiniteBannerView-umbrella.h in Headers */,
+				25FFA6BD8D35F1657E958AFC124D5B9F /* NBInfiniteBannerView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,26 +481,6 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		282A33B58ED950FF7043879DF2BC0151 /* NBInfiniteBannerView */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F25DA7028C7AC3C0C9CCE25FCB374FC3 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView" */;
-			buildPhases = (
-				6C5492E10E1FE485E7D6E6B947C264AD /* Sources */,
-				20638C16D74EB6AABA0259E501E95E1F /* Frameworks */,
-				0AA0DF8CB11F2E612D38F83160DEC820 /* Resources */,
-				758C269D87B8869F368FB68CC5DD15FF /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				C9C17363E788D503B374F54C9F6C6B61 /* PBXTargetDependency */,
-				7C75F3D4A7151DE4BE8070DD8ED0A400 /* PBXTargetDependency */,
-			);
-			name = NBInfiniteBannerView;
-			productName = NBInfiniteBannerView;
-			productReference = CE995D18EF34327ADFAE4449AE0E403B /* NBInfiniteBannerView.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		9666688CB41B38A9914616144C9C7A3E /* SDWebImage */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9A6FC2693C4E733D173751568F60144F /* Build configuration list for PBXNativeTarget "SDWebImage" */;
@@ -518,23 +498,6 @@
 			productReference = 2E55A4429F063A37A9B01D65C08EDB37 /* SDWebImage.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		B0503334003B3A02E0A282448E34B07C /* NBInfiniteBannerView-NBInfiniteBannerView */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = E6E10BA98E73D3B00D9975EC66230BB6 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView-NBInfiniteBannerView" */;
-			buildPhases = (
-				9DEE9D5EE206FF88E779FF04F2702CAB /* Sources */,
-				443A7A0FEAF4419D5A65C140CDE78437 /* Frameworks */,
-				1C7D98425B7EB98A300E6D3F33CB42E7 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "NBInfiniteBannerView-NBInfiniteBannerView";
-			productName = "NBInfiniteBannerView-NBInfiniteBannerView";
-			productReference = 0CC1BBE2CA778F8FDECDACF35D0699F8 /* NBInfiniteBannerView.bundle */;
-			productType = "com.apple.product-type.bundle";
-		};
 		CC560D44FC67687C666C8A5A1E6B22C4 /* Pods-NBInfiniteBannerView_Tests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3130092D4A242BC52E6B95C01B02B025 /* Build configuration list for PBXNativeTarget "Pods-NBInfiniteBannerView_Tests" */;
@@ -546,12 +509,32 @@
 			buildRules = (
 			);
 			dependencies = (
-				6C1E8CF8A9960402A3DC8F4CAE5F31C6 /* PBXTargetDependency */,
-				80C4CCA4EE7559B1F733B9F9FCE15703 /* PBXTargetDependency */,
+				34AAB1C7C93B69C147A7632421E0AB62 /* PBXTargetDependency */,
+				0EBB53882A1912151026B1068902D9E4 /* PBXTargetDependency */,
 			);
 			name = "Pods-NBInfiniteBannerView_Tests";
 			productName = "Pods-NBInfiniteBannerView_Tests";
 			productReference = C85590BACF6CCF0C68E6DB42F2DBE9C4 /* Pods_NBInfiniteBannerView_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		D631BA31A3E365D13738A3876778AAA9 /* NBInfiniteBannerView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E48AC0F5504B441B3A16C31C63715079 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView" */;
+			buildPhases = (
+				4FBD95F3525D8D7D74CFF261F9D46220 /* Sources */,
+				35C419371716735E059F903A6E604180 /* Frameworks */,
+				4A90F2D7B93A1B62CC3A6DD38B6244DA /* Resources */,
+				9C74A2729B393EA4A13AA608F9CA3599 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				33B95BC244FC052DC8D037825DC164C9 /* PBXTargetDependency */,
+				9123CF4EC5D435A355DD8118DC21F07A /* PBXTargetDependency */,
+			);
+			name = NBInfiniteBannerView;
+			productName = NBInfiniteBannerView;
+			productReference = 379F9652362D0E1892AAECEB79FC211A /* NBInfiniteBannerView.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		EE3336EC9B5F347FB890D4E7232C997F /* Pods-NBInfiniteBannerView_Example */ = {
@@ -565,13 +548,30 @@
 			buildRules = (
 			);
 			dependencies = (
-				930CD1E6B4723747BB31A013BA28A4D0 /* PBXTargetDependency */,
-				067B4C899AC641A7BD38490D260485E3 /* PBXTargetDependency */,
+				5ACC49EAD62FB8F1DC786F2EB5251B6F /* PBXTargetDependency */,
+				4F44CE151D975D2AD09BD5008B789EF2 /* PBXTargetDependency */,
 			);
 			name = "Pods-NBInfiniteBannerView_Example";
 			productName = "Pods-NBInfiniteBannerView_Example";
 			productReference = 99884F598E79D841FF09DC52D8C56ADF /* Pods_NBInfiniteBannerView_Example.framework */;
 			productType = "com.apple.product-type.framework";
+		};
+		F2A8DA3AEDF3B6919C47CBB4C7335432 /* NBInfiniteBannerView-NBInfiniteBannerView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E1E0DF85BBB4AC99A0B189B1CB450D24 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView-NBInfiniteBannerView" */;
+			buildPhases = (
+				57371BE16BBF02AAD6A5A407E8C98584 /* Sources */,
+				6F01B3DDED7482330DB05E9B1F3ED49E /* Frameworks */,
+				C12744B3574CB043AF8966158D0A92DC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "NBInfiniteBannerView-NBInfiniteBannerView";
+			productName = "NBInfiniteBannerView-NBInfiniteBannerView";
+			productReference = 09E4A1AC66E11CEE2DAFA25437D46817 /* NBInfiniteBannerView.bundle */;
+			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
 
@@ -594,8 +594,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				282A33B58ED950FF7043879DF2BC0151 /* NBInfiniteBannerView */,
-				B0503334003B3A02E0A282448E34B07C /* NBInfiniteBannerView-NBInfiniteBannerView */,
+				D631BA31A3E365D13738A3876778AAA9 /* NBInfiniteBannerView */,
+				F2A8DA3AEDF3B6919C47CBB4C7335432 /* NBInfiniteBannerView-NBInfiniteBannerView */,
 				EE3336EC9B5F347FB890D4E7232C997F /* Pods-NBInfiniteBannerView_Example */,
 				CC560D44FC67687C666C8A5A1E6B22C4 /* Pods-NBInfiniteBannerView_Tests */,
 				9666688CB41B38A9914616144C9C7A3E /* SDWebImage */,
@@ -604,15 +604,15 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0AA0DF8CB11F2E612D38F83160DEC820 /* Resources */ = {
+		4A90F2D7B93A1B62CC3A6DD38B6244DA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2162A64E6EF7F53EEBE9DC67C39DD688 /* NBInfiniteBannerView.bundle in Resources */,
+				AEABFD91006510CDD34A74D6AC97C48C /* NBInfiniteBannerView.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1C7D98425B7EB98A300E6D3F33CB42E7 /* Resources */ = {
+		C12744B3574CB043AF8966158D0A92DC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -622,6 +622,15 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		4FBD95F3525D8D7D74CFF261F9D46220 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C6C32191A8E4B309987EDE13CCD2678 /* NBInfiniteBannerView-dummy.m in Sources */,
+				429AD928229EFAF6C1BB2BE2109B2183 /* NBInfiniteBannerView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5353B92BB9650F2FAADA5CAE70B62E87 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -630,12 +639,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6C5492E10E1FE485E7D6E6B947C264AD /* Sources */ = {
+		57371BE16BBF02AAD6A5A407E8C98584 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				05D13C6BE82E9427E35BBE2848E6E938 /* NBInfiniteBannerView-dummy.m in Sources */,
-				E15F5A84EB02DBDBC06B4DBDA3FDF2AF /* NBInfiniteBannerView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -644,13 +651,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED030EE0A6130DF968850091C2E7B793 /* Pods-NBInfiniteBannerView_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		9DEE9D5EE206FF88E779FF04F2702CAB /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -679,41 +679,41 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		067B4C899AC641A7BD38490D260485E3 /* PBXTargetDependency */ = {
+		0EBB53882A1912151026B1068902D9E4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SDWebImage;
 			target = 9666688CB41B38A9914616144C9C7A3E /* SDWebImage */;
-			targetProxy = 9152A8395CA6B3B4436F62EC6DA53F84 /* PBXContainerItemProxy */;
+			targetProxy = E46656478C0389698E466F5D8BD71416 /* PBXContainerItemProxy */;
 		};
-		6C1E8CF8A9960402A3DC8F4CAE5F31C6 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = NBInfiniteBannerView;
-			target = 282A33B58ED950FF7043879DF2BC0151 /* NBInfiniteBannerView */;
-			targetProxy = 6D0128C70D389F98AB223EC9B153A3B2 /* PBXContainerItemProxy */;
-		};
-		7C75F3D4A7151DE4BE8070DD8ED0A400 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SDWebImage;
-			target = 9666688CB41B38A9914616144C9C7A3E /* SDWebImage */;
-			targetProxy = 9E46DF134FD899C9D06628E43C45FBA2 /* PBXContainerItemProxy */;
-		};
-		80C4CCA4EE7559B1F733B9F9FCE15703 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SDWebImage;
-			target = 9666688CB41B38A9914616144C9C7A3E /* SDWebImage */;
-			targetProxy = 18D7C6A225F7A98791BE514AFD46144C /* PBXContainerItemProxy */;
-		};
-		930CD1E6B4723747BB31A013BA28A4D0 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = NBInfiniteBannerView;
-			target = 282A33B58ED950FF7043879DF2BC0151 /* NBInfiniteBannerView */;
-			targetProxy = 790DD7D7DF92CA23B3A2CB5E8E10AC7A /* PBXContainerItemProxy */;
-		};
-		C9C17363E788D503B374F54C9F6C6B61 /* PBXTargetDependency */ = {
+		33B95BC244FC052DC8D037825DC164C9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "NBInfiniteBannerView-NBInfiniteBannerView";
-			target = B0503334003B3A02E0A282448E34B07C /* NBInfiniteBannerView-NBInfiniteBannerView */;
-			targetProxy = 15746A4F80EB2753A5B8606C9283AB72 /* PBXContainerItemProxy */;
+			target = F2A8DA3AEDF3B6919C47CBB4C7335432 /* NBInfiniteBannerView-NBInfiniteBannerView */;
+			targetProxy = F11B8F7A310FC3E6A16AF7FD44A6D322 /* PBXContainerItemProxy */;
+		};
+		34AAB1C7C93B69C147A7632421E0AB62 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = NBInfiniteBannerView;
+			target = D631BA31A3E365D13738A3876778AAA9 /* NBInfiniteBannerView */;
+			targetProxy = C076B8C25D9350D404CE55BBBF126935 /* PBXContainerItemProxy */;
+		};
+		4F44CE151D975D2AD09BD5008B789EF2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SDWebImage;
+			target = 9666688CB41B38A9914616144C9C7A3E /* SDWebImage */;
+			targetProxy = A675EF6A58056E7B8D08951453670F30 /* PBXContainerItemProxy */;
+		};
+		5ACC49EAD62FB8F1DC786F2EB5251B6F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = NBInfiniteBannerView;
+			target = D631BA31A3E365D13738A3876778AAA9 /* NBInfiniteBannerView */;
+			targetProxy = D7B527BD511524673BC5AF581E60AA89 /* PBXContainerItemProxy */;
+		};
+		9123CF4EC5D435A355DD8118DC21F07A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SDWebImage;
+			target = 9666688CB41B38A9914616144C9C7A3E /* SDWebImage */;
+			targetProxy = 4806092245B677D71A18F9E3C2E57BC2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -818,17 +818,32 @@
 			};
 			name = Release;
 		};
-		2D74C66FACF0C4F33E3D1C48289A6E5C /* Debug */ = {
+		3D77F68D484F203F3E818E9ADED93599 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EF47C7DBFE93175A4D7D6F891700AF65 /* NBInfiniteBannerView-Private.xcconfig */;
+			baseConfigurationReference = F8020406A22F55E7913F562268E810B2 /* NBInfiniteBannerView-Private.xcconfig */;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 0.1.0;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 0.1.0;
+				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/NBInfiniteBannerView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = NBInfiniteBannerView;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 		53D46E8DD9D122C19597FC768223E0F4 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -858,6 +873,33 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
+		};
+		6637F6CD54C6EF3CA95591907B1E1750 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F8020406A22F55E7913F562268E810B2 /* NBInfiniteBannerView-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 0.1.0;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 0.1.0;
+				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/NBInfiniteBannerView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = NBInfiniteBannerView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		75C8FBC2F28FB13BC526A4E5850898A1 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -917,18 +959,6 @@
 			};
 			name = Debug;
 		};
-		91FB0E0B43B6715B9B67C7AA47A4F7DA /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = EF47C7DBFE93175A4D7D6F891700AF65 /* NBInfiniteBannerView-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = NBInfiniteBannerView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
 		966522FBC12E72E46D5750F626A46586 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8517DC830B0534B3C792A2B444B0A126 /* SDWebImage-Private.xcconfig */;
@@ -956,59 +986,29 @@
 			};
 			name = Debug;
 		};
-		9C774E9CC849C38FD30138B0C372CA5B /* Release */ = {
+		CE6E067F57FCDEB4089028AD5B33191E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EF47C7DBFE93175A4D7D6F891700AF65 /* NBInfiniteBannerView-Private.xcconfig */;
+			baseConfigurationReference = F8020406A22F55E7913F562268E810B2 /* NBInfiniteBannerView-Private.xcconfig */;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 0.1.0;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 0.1.0;
-				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/NBInfiniteBannerView/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = NBInfiniteBannerView;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		C79EE1A92F957155766968A3884593F9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = EF47C7DBFE93175A4D7D6F891700AF65 /* NBInfiniteBannerView-Private.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 0.1.0;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 0.1.0;
-				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/NBInfiniteBannerView/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/NBInfiniteBannerView/NBInfiniteBannerView.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = NBInfiniteBannerView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Debug;
+		};
+		CF753CBC2DDB050B137D1E9CB3EEBA93 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F8020406A22F55E7913F562268E810B2 /* NBInfiniteBannerView-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = NBInfiniteBannerView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
 		};
 		E344C891C45FA4E37616CB1916231A6D /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -1078,20 +1078,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E6E10BA98E73D3B00D9975EC66230BB6 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView-NBInfiniteBannerView" */ = {
+		E1E0DF85BBB4AC99A0B189B1CB450D24 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView-NBInfiniteBannerView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2D74C66FACF0C4F33E3D1C48289A6E5C /* Debug */,
-				91FB0E0B43B6715B9B67C7AA47A4F7DA /* Release */,
+				CE6E067F57FCDEB4089028AD5B33191E /* Debug */,
+				CF753CBC2DDB050B137D1E9CB3EEBA93 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F25DA7028C7AC3C0C9CCE25FCB374FC3 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView" */ = {
+		E48AC0F5504B441B3A16C31C63715079 /* Build configuration list for PBXNativeTarget "NBInfiniteBannerView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C79EE1A92F957155766968A3884593F9 /* Debug */,
-				9C774E9CC849C38FD30138B0C372CA5B /* Release */,
+				6637F6CD54C6EF3CA95591907B1E1750 /* Debug */,
+				3D77F68D484F203F3E818E9ADED93599 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
