@@ -141,8 +141,6 @@
 
 - (void)timerFireMethod:(NSTimer *)timer {
     
-    NSLog(@"banner timer fired...");
-    
     if (_scrollView.tracking || !self.window) {
         return;
     }
@@ -167,6 +165,10 @@
 }
 
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView {
+    
+    if (_itemViews.count <= 1) {
+        return;
+    }
     
     CGFloat gap = scrollView.bounds.size.width;
     float loc = scrollView.contentOffset.x / gap - 0.5;
